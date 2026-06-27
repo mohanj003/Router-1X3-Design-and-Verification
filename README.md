@@ -165,5 +165,5 @@ make wave
 
 ## Author
 
-**Jandhyam Mohanganga**
+**Jandhyam Mohan Ganga**
 [GitHub Profile](https://github.com/jandhyammohanganga)
